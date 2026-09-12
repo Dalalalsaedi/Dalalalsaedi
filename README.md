@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Dalal 👋
 
-<!--
-**Dalalalsaedi/Dalalalsaedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student interested in software development and technology.
 
-Here are some ideas to get you started:
+## I am interested in
+- Web development
+- Software development
+- Databases
+- Cybersecurity
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I have used
+- HTML and CSS
+- CSS Grid
+- C#
+- ASP.NET MVC
+- SQL and MySQL
+- C++
+- Python
+
+## My Experience
+I enjoy creating websites and working with web development. So far, I have created three websites using different technologies. I especially enjoy using CSS Grid because it makes it easier to organize and design responsive web pages.
+
+## Currently learning
+I am currently learning more about Git, GitHub, Python, and collaborative software development.
+
+## Hobbies
+I enjoy spending time with my family, learning new things, and creating websites.
